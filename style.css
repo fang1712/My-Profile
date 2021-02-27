@@ -1,0 +1,26 @@
+.nav-link{
+    color: rgb(5, 5, 5) !important;
+}
+
+.rounded-circle{
+    width: 200px;
+    height: 150px;
+}
+
+.details-table{
+    border: 2px solid red;
+}
+
+.jumbotron{
+    margin-bottom: 0;
+}
+
+#about{
+    background-color: darkred;
+    color: white;
+}
+
+#education{
+    background-color: darkred;
+    color: white;
+}
